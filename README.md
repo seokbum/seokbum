@@ -48,9 +48,3 @@ Bootstrap 5, AdminLTE 4:** 웹 애플리케이션의 반응형 디자인과 관�
 * **GitHub:** [https://github.com/seokbum](https://github.com/seokbum)
 * **이메일:** seokbum7816@daum.net
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
-
-![Hits](https://hits.seeyoufarm.com/api/count/Cntr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
