@@ -135,6 +135,7 @@
 #### **LMS 학사관리 시스템**
 
 * **[프로젝트 바로가기](https://github.com/seokbum/LMSProject1)**
+
 개요: JSP와 JavaScript를 활용한 MVC 기반의 학사 관리 웹 애플리케이션입니다.
 
 주요 성과:
