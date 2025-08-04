@@ -42,4 +42,3 @@
 
   * **GitHub**: [https://github.com/seokbum](https://github.com/seokbum)
   * **이메일**: seokbum7816@daum.net
-  * **전화**: 010-8587-7816
