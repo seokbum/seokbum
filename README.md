@@ -7,30 +7,6 @@
 * Java와 Spring Framework를 중심으로 학습하며, AWS를 활용한 클라우드 기반 애플리케이션 개발을 목표로 성장 중입니다.
 
 
-<style>
-    .tech-table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-bottom: 20px;
-    }
-    .tech-table th, .tech-table td {
-        border: 1px solid #ddd;
-        padding: 12px;
-        text-align: left;
-        vertical-align: middle;
-    }
-    .tech-table th {
-        background-color: #f2f2f2;
-        font-weight: bold;
-    }
-    .badge-container {
-        display: flex;
-        align-items: center;
-    }
-    .badge-container img {
-        margin-right: 10px;
-    }
-</style>
 
 <h3>🛠️ 기술 스택 (Tech Stacks)</h3>
 <p>제가 주로 사용하는 기술과 학습 중인 기술들입니다.</p>
